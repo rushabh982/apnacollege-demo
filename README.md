@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my git repostory
 <br>
-Author - Rushabh Patel
+Author - Rushabh (Apna College)
